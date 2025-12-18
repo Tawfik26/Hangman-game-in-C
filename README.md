@@ -14,8 +14,4 @@ For every wrong guess, a part of the hangman is drawn.
 Win by revealing the word before the drawing is complete!
 
 🛠️ Built With
-Frontend: [HTML/CSS/React/etc.]
-
-Logic: [JavaScript/Python/etc.]
-
-Deployment: [GitHub Pages/Vercel/etc.]
+Basic C programming for easy understanding
